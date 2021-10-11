@@ -1,2 +1,2 @@
 # Julia Alberto's Resume
-Resume updated as of September 2021
+Resume updated as of October 2021
