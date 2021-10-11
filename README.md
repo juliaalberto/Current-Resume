@@ -1,4 +1,8 @@
 # Julia Alberto's Resume
+
 Resume updated as of October 2021
 
-<a href = "Julia_Alberto_Resume.pdf">
+<a target="_blank" href="Julia_Alberto_Resume.pdf" title=""> Preview Julia_Alberto_Resume.pdf </a>
+
+<a href = "Julia_Alberto_Resume.pdf"> Download Julia_Alberto_Resume.pdf</a>
+
